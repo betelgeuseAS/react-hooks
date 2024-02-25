@@ -1,0 +1,10 @@
+# IDE
+/.idea/
+/.vscode/
+
+# Misc
+/**/_backstage
+/**/package-lock.json
+/**/Thumbs.db
+/**/*.DS_Store
+/**/debug.log
