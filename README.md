@@ -58,6 +58,7 @@
 - [Searchable Collection of React Hooks](https://nikgraf.github.io/react-hooks/)
 - [Sunflower(🌻)](https://github.com/ant-design/sunflower) Collection of React Hooks returning components of antd.
 - [useHooks(🐠)](https://usehooks.com/) One new React Hook recipe every day.
+- [useHooks(🔥).ts](https://usehooks-ts.com/) React hook library, ready to use, written in Typescript.
 
 ## Packages
 
